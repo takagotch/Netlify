@@ -1,4 +1,4 @@
-### netlify - GithubPage
+### Netlify - GithubPage
 ---
 https://app.netlify.com/start
 
