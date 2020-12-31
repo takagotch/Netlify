@@ -17,6 +17,7 @@ https://app.netlify.com/sites/condescending-poincare-68945a/settings/general
 ### Host app Demo
 ###### Github Pqge
 ###### Netlify 
+###### firebase google
 ###### Zeit Now | Vercel
 ###### Heroku
 ###### AWS Amplify
